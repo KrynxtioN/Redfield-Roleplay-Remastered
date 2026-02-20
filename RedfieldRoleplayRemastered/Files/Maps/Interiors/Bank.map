@@ -1,0 +1,7 @@
+<map edf:definitions="editor_main">
+    <object id="object (kmb_shutter) (1)" breakable="true" interior="3" collisions="true" alpha="255" model="3055" doublesided="false" scale="1" dimension="0" posX="350.89999" posY="166.8" posZ="1025.3" rotX="0" rotY="0" rotZ="90"></object>
+    <object id="object (kmb_shutter) (3)" breakable="true" interior="3" collisions="true" alpha="255" model="3055" doublesided="false" scale="1" dimension="0" posX="370" posY="162.2" posZ="1015.3" rotX="0" rotY="0" rotZ="90"></object>
+    <object id="object (ab_casdorLok) (1)" breakable="true" interior="3" collisions="true" alpha="255" model="3089" doublesided="false" scale="1" dimension="0" posX="351" posY="161.3" posZ="1026.1" rotX="0" rotY="0" rotZ="146.75"></object>
+    <object id="object (kmb_shutter) (4)" breakable="true" interior="3" collisions="true" alpha="255" model="3055" doublesided="false" scale="1" dimension="0" posX="369.59961" posY="162.59961" posZ="1021.1" rotX="0" rotY="0" rotZ="90"></object>
+    <object id="object (kmb_shutter) (5)" breakable="true" interior="3" collisions="true" alpha="255" model="3055" doublesided="false" scale="1" dimension="0" posX="350.89999" posY="157.3" posZ="1025.3" rotX="0" rotY="0" rotZ="90"></object>
+</map>

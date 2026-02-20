@@ -1,0 +1,4 @@
+<map edf:definitions="editor_main">
+    <object id="object (lckupgrgdoor_lvs) (1)" breakable="true" interior="0" alpha="255" model="8948" doublesided="false" scale="1" dimension="0" posX="2609.5" posY="1438.2" posZ="14" rotX="0" rotY="0" rotZ="90"></object>
+    <removeWorldObject id="removeWorldObject (lckupgrgdoor_lvs) (1)" radius="6.0936413" interior="0" model="8948" lodModel="0" posX="2609.8108" posY="1438.3203" posZ="11.23422" rotX="0" rotY="0" rotZ="0"></removeWorldObject>
+</map>

@@ -1,0 +1,8 @@
+<map edf:definitions="editor_main">
+    <object id="object (CJ_US_FLAG) (1)" breakable="true" interior="10" collisions="true" alpha="255" model="2614" doublesided="false" scale="1" dimension="0" posX="246.60001" posY="118.2" posZ="1008.5" rotX="0" rotY="0" rotZ="0"></object>
+    <object id="object (pol_comp_gate) (1)" breakable="true" interior="10" collisions="true" alpha="255" model="2933" doublesided="false" scale="1" dimension="0" posX="239.7" posY="109.8" posZ="1005.5" rotX="0" rotY="0" rotZ="90"></object>
+    <object id="object (pol_comp_gate) (2)" breakable="true" interior="10" collisions="true" alpha="255" model="2933" doublesided="false" scale="1" dimension="0" posX="253.10001" posY="114.5" posZ="1005.5" rotX="0" rotY="0" rotZ="90"></object>
+    <object id="object (kmb_frontgate) (1)" breakable="true" interior="10" collisions="true" alpha="0" model="2909" doublesided="false" scale="1" dimension="0" posX="244" posY="119.2002" posZ="1004.7" rotX="0" rotY="0" rotZ="90"></object>
+    <object id="object (Gen_doorEXT12) (1)" breakable="true" interior="10" collisions="true" alpha="255" model="1533" doublesided="false" scale="1" dimension="0" posX="213.7" posY="121.6" posZ="1002.2" rotX="0" rotY="0" rotZ="90"></object>
+    <object id="object (kmb_frontgate) (3)" breakable="true" interior="10" collisions="true" alpha="0" model="2909" doublesided="false" scale="1" dimension="0" posX="249.0995" posY="119.2174" posZ="1004.7" rotX="0" rotY="0" rotZ="90"></object>
+</map>

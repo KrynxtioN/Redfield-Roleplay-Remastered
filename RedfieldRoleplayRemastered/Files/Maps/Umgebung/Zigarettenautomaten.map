@@ -1,0 +1,16 @@
+<map edf:definitions="editor_main">
+    <object id="object (vendmachfd) (1)" breakable="true" interior="0" alpha="255" model="1302" doublesided="false" scale="1" dimension="0" posX="-1980.5642" posY="122.549" posZ="26.6875" rotX="0" rotY="0" rotZ="270"></object>
+    <object id="object (vendmachfd) (2)" breakable="true" interior="0" alpha="255" model="1302" doublesided="false" scale="1" dimension="0" posX="-2136.9114" posY="162.56219" posZ="34.3203" rotX="0" rotY="0" rotZ="270"></object>
+    <object id="object (vendmachfd) (3)" breakable="true" interior="0" alpha="255" model="1302" doublesided="false" scale="1" dimension="0" posX="-2305.2817" posY="-59.2711" posZ="34.3203" rotX="0" rotY="0" rotZ="270"></object>
+    <object id="object (vendmachfd) (4)" breakable="true" interior="0" alpha="255" model="1302" doublesided="false" scale="1" dimension="0" posX="-2020.1465" posY="-281.70651" posZ="34.4849" rotX="0" rotY="0" rotZ="0"></object>
+    <object id="object (vendmachfd) (5)" breakable="true" interior="0" alpha="255" model="1302" doublesided="false" scale="1" dimension="0" posX="-2293.8096" posY="419.3916" posZ="34.1719" rotX="0" rotY="0" rotZ="0"></object>
+    <object id="object (vendmachfd) (6)" breakable="true" interior="0" alpha="255" model="1302" doublesided="false" scale="1" dimension="0" posX="-2067.5703" posY="39.98926" posZ="34.3203" rotX="0" rotY="0" rotZ="0"></object>
+    <object id="object (vendmachfd) (7)" breakable="true" interior="0" alpha="255" model="1302" doublesided="false" scale="1" dimension="0" posX="-2012.9623" posY="-491.98099" posZ="34.5313" rotX="0" rotY="0" rotZ="0"></object>
+    <object id="object (vendmachfd) (8)" breakable="true" interior="0" alpha="255" model="1302" doublesided="false" scale="1" dimension="0" posX="-1916.7148" posY="620.55511" posZ="34.1719" rotX="0" rotY="0" rotZ="0"></object>
+    <object id="object (vendmachfd) (9)" breakable="true" interior="0" alpha="255" model="1302" doublesided="false" scale="1" dimension="0" posX="-2513.8" posY="746.84399" posZ="34.0156" rotX="0" rotY="0" rotZ="0"></object>
+    <object id="object (vendmachfd) (10)" breakable="true" interior="0" alpha="255" model="1302" doublesided="false" scale="1" dimension="0" posX="-1870.7529" posY="1115.584" posZ="44.4375" rotX="0" rotY="0" rotZ="0"></object>
+    <object id="object (vendmachfd) (11)" breakable="true" interior="0" alpha="255" model="1302" doublesided="false" scale="1" dimension="0" posX="-2432.3145" posY="108.6875" posZ="34.1719" rotX="0" rotY="0" rotZ="0"></object>
+    <object id="object (vendmachfd) (12)" breakable="true" interior="0" alpha="255" model="1302" doublesided="false" scale="1" dimension="0" posX="-2575.7578" posY="478.01563" posZ="13.6094" rotX="0" rotY="0" rotZ="0"></object>
+    <object id="object (vendmachfd) (13)" breakable="true" interior="0" alpha="255" model="1302" doublesided="false" scale="1" dimension="0" posX="-1878.1494" posY="943.43457" posZ="34.1719" rotX="0" rotY="0" rotZ="0"></object>
+    <object id="object (vendmachfd) (14)" breakable="true" interior="0" alpha="255" model="1302" doublesided="false" scale="1" dimension="0" posX="-1738.0293" posY="-26.70703" posZ="2.5547" rotX="0" rotY="0" rotZ="0"></object>
+</map>

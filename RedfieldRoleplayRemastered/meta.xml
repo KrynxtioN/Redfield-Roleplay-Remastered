@@ -1,0 +1,704 @@
+<meta>
+
+	<oop>true</oop>
+	
+	<!--
+		*/FILES
+	-->
+
+	<file src = "Files/Images/Infobox.png"/>
+	<file src = "Files/Images/Window1.png"/>
+	<file src = "Files/Images/Window2.png"/>
+	<file src = "Files/Images/Kreuz.png"/>
+	<file src = "Files/Images/Pixel/Weiss.png"/>
+	<file src = "Files/Images/Button1.png"/>
+	<file src = "Files/Images/Button2.png"/>
+	
+	<file src = "Files/Images/Lobby/Race.png"/>
+	<file src = "Files/Images/Lobby/Race_Comingsoon.png"/>
+	<file src = "Files/Images/Lobby/Reallife.png"/>
+	<file src = "Files/Images/Lobby/Tactics.png"/>
+	<file src = "Files/Images/Lobby/Lobby_BG.png"/>
+	
+	<file src = "Files/Images/OxygenFlasche.png"/>
+	<file src = "Files/Images/Achievement_locked.png" download = "false"/>
+	<file src = "Files/Images/Achievement_reached.png" download = "false"/>
+	<file src = "Files/Images/Status_locked.png" download = "false"/>
+	<file src = "Files/Images/Status_reached.png" download = "false"/>
+	<file src = "Files/Images/Bloodscreen.png"/>
+	<file src = "Files/Images/Model263.png"/>
+	<file src = "Files/Images/Model264.png"/>
+	<file src = "Files/Images/skull.png"/>
+	<file src = "Files/Images/time.png"/>
+	<file src = "Files/Images/flash.png"/>
+	
+	<file src = "Files/Images/Handy1.png" download = "false"/>
+	<file src = "Files/Images/Handy2.png" download = "false"/>
+	<file src = "Files/Images/Handy3.png" download = "false"/>
+	<file src = "Files/Images/BreakingNews.png" download = "false"/>
+	
+	<!-- HUD -->
+	<file src = "Files/Images/HUD/Health.png" download = "false"/>
+	<file src = "Files/Images/HUD/Food.png" download = "false"/>
+	<file src = "Files/Images/HUD/Armor.png" download = "false"/>
+	<file src = "Files/Images/HUD/Money.png" download = "false"/>
+	<file src = "Files/Images/HUD/Oxygen.png" download = "false"/>
+	<file src = "Files/Images/HUD/Wanted.png" download = "false"/>
+	<file src = "Files/Images/HUD/Info.png" download = "false"/>
+	<file src = "Files/Images/HUD/Harndrang.png" download = "false"/>
+	<file src = "Files/Images/HUD/Erfahrungspunkte.png" download = "false"/>
+	<file src = "Files/Images/HUD/Energie.png" download = "false"/>
+	
+	<file src = "Files/Images/HUD/Waffen/0.png" download = "false"/>
+	<file src = "Files/Images/HUD/Waffen/1.png" download = "false"/>
+	<file src = "Files/Images/HUD/Waffen/2.png" download = "false"/>
+	<file src = "Files/Images/HUD/Waffen/3.png" download = "false"/>
+	<file src = "Files/Images/HUD/Waffen/4.png" download = "false"/>
+	<file src = "Files/Images/HUD/Waffen/5.png" download = "false"/>
+	<file src = "Files/Images/HUD/Waffen/6.png" download = "false"/>
+	<file src = "Files/Images/HUD/Waffen/7.png" download = "false"/>
+	<file src = "Files/Images/HUD/Waffen/8.png" download = "false"/>
+	<file src = "Files/Images/HUD/Waffen/9.png" download = "false"/>
+	<file src = "Files/Images/HUD/Waffen/10.png" download = "false"/>
+	<file src = "Files/Images/HUD/Waffen/11.png" download = "false"/>
+	<file src = "Files/Images/HUD/Waffen/12.png" download = "false"/>
+	<file src = "Files/Images/HUD/Waffen/14.png" download = "false"/>
+	<file src = "Files/Images/HUD/Waffen/15.png" download = "false"/>
+	<file src = "Files/Images/HUD/Waffen/16.png" download = "false"/>
+	<file src = "Files/Images/HUD/Waffen/17.png" download = "false"/>
+	<file src = "Files/Images/HUD/Waffen/18.png" download = "false"/>
+	<file src = "Files/Images/HUD/Waffen/22.png" download = "false"/>
+	<file src = "Files/Images/HUD/Waffen/23.png" download = "false"/>
+	<file src = "Files/Images/HUD/Waffen/24.png" download = "false"/>
+	<file src = "Files/Images/HUD/Waffen/25.png" download = "false"/>
+	<file src = "Files/Images/HUD/Waffen/26.png" download = "false"/>
+	<file src = "Files/Images/HUD/Waffen/27.png" download = "false"/>
+	<file src = "Files/Images/HUD/Waffen/28.png" download = "false"/>
+	<file src = "Files/Images/HUD/Waffen/29.png" download = "false"/>
+	<file src = "Files/Images/HUD/Waffen/30.png" download = "false"/>
+	<file src = "Files/Images/HUD/Waffen/31.png" download = "false"/>
+	<file src = "Files/Images/HUD/Waffen/32.png" download = "false"/>
+	<file src = "Files/Images/HUD/Waffen/33.png" download = "false"/>
+	<file src = "Files/Images/HUD/Waffen/34.png" download = "false"/>
+	<file src = "Files/Images/HUD/Waffen/35.png" download = "false"/>
+	<file src = "Files/Images/HUD/Waffen/36.png" download = "false"/>
+	<file src = "Files/Images/HUD/Waffen/37.png" download = "false"/>
+	<file src = "Files/Images/HUD/Waffen/38.png" download = "false"/>
+	<file src = "Files/Images/HUD/Waffen/39.png" download = "false"/>
+	<file src = "Files/Images/HUD/Waffen/40.png" download = "false"/>
+	<file src = "Files/Images/HUD/Waffen/41.png" download = "false"/>
+	<file src = "Files/Images/HUD/Waffen/42.png" download = "false"/>
+	<file src = "Files/Images/HUD/Waffen/43.png" download = "false"/>
+	<file src = "Files/Images/HUD/Waffen/44.png" download = "false"/>
+	<file src = "Files/Images/HUD/Waffen/45.png" download = "false"/>
+	<file src = "Files/Images/HUD/Waffen/46.png" download = "false"/>
+	<file src = "Files/Images/HUD/Waffen/1337.png" download = "false"/>
+	
+	<!-- Inventar -->
+	<file src = "Files/Images/Inventar/Aepfel.png" download = "false"/>
+	<file src = "Files/Images/Inventar/Angel.png" download = "false"/>
+	<file src = "Files/Images/Inventar/Angelhaken.png" download = "false"/>
+	<file src = "Files/Images/Inventar/Apfelsamen.png" download = "false"/>
+	<file src = "Files/Images/Inventar/Benzinkanister.png" download = "false"/>
+	<file src = "Files/Images/Inventar/Bomben.png" download = "false"/>
+	<file src = "Files/Images/Inventar/Burger.png" download = "false"/>
+	<file src = "Files/Images/Inventar/Casinochips.png" download = "false"/>
+	<file src = "Files/Images/Inventar/Defusekits.png" download = "false"/>
+	<file src = "Files/Images/Inventar/Fisch.png" download = "false"/>
+	<file src = "Files/Images/Inventar/Geschenke.png" download = "false"/>
+	<file src = "Files/Images/Inventar/Ghostface.png" download = "false"/>
+	<file src = "Files/Images/Inventar/Gras.png" download = "false"/>
+	<file src = "Files/Images/Inventar/Handy.png" download = "false"/>
+	<file src = "Files/Images/Inventar/Hanfsamen.png" download = "false"/>
+	<file src = "Files/Images/Inventar/Holz.png" download = "false"/>
+	<file src = "Files/Images/Inventar/Huehnchen.png" download = "false"/>
+	<file src = "Files/Images/Inventar/Koeder.png" download = "false"/>
+	<file src = "Files/Images/Inventar/Kondome.png" download = "false"/>
+	<file src = "Files/Images/Inventar/Kuerbisse.png" download = "false"/>
+	<file src = "Files/Images/Inventar/Limonade.png" download = "false"/>
+	<file src = "Files/Images/Inventar/Materialien.png" download = "false"/>
+	<file src = "Files/Images/Inventar/Medikits.png" download = "false"/>
+	<file src = "Files/Images/Inventar/Orangen.png" download = "false"/>
+	<file src = "Files/Images/Inventar/Orangensamen.png" download = "false"/>
+	<file src = "Files/Images/Inventar/Ostereier.png" download = "false"/>
+	<file src = "Files/Images/Inventar/OxygenFlasche.png" download = "false"/>
+	<file src = "Files/Images/Inventar/Pfandflaschen.png" download = "false"/>
+	<file src = "Files/Images/Inventar/Pizza.png" download = "false"/>
+	<file src = "Files/Images/Inventar/Pokale.png" download = "false"/>
+	<file src = "Files/Images/Inventar/Raketen.png" download = "false"/>
+	<file src = "Files/Images/Inventar/Repairkits.png" download = "false"/>
+	<file src = "Files/Images/Inventar/Schwarzpulver.png" download = "false"/>
+	<file src = "Files/Images/Inventar/Taucheranzug.png" download = "false"/>
+	<file src = "Files/Images/Inventar/Wuerfel.png" download = "false"/>
+	<file src = "Files/Images/Inventar/ArchaeologenLexikon.png" download = "false"/>
+	<file src = "Files/Images/Inventar/Schutzmechanismus.png" download = "false"/>
+	<file src = "Files/Images/Inventar/Raketentreibstoff.png" download = "false"/>
+	<file src = "Files/Images/Inventar/Automatensprengkit.png" download = "false"/>
+	<file src = "Files/Images/Inventar/Mondsteine.png" download = "false"/>
+	<file src = "Files/Images/Inventar/Spitzhacke.png" download = "false"/>
+	<file src = "Files/Images/Inventar/Schatztruhe.png" download = "false"/>
+	<file src = "Files/Images/Inventar/Sammelkartenalbum.png" download = "false"/>
+	<file src = "Files/Images/Inventar/Golderz.png" download = "false"/>
+	<file src = "Files/Images/Inventar/Goldbarren.png" download = "false"/>
+	<file src = "Files/Images/Inventar/Futter.png" download = "false"/>
+	<file src = "Files/Images/Inventar/Wasser.png" download = "false"/>
+	<file src = "Files/Images/Inventar/Spielzeug.png" download = "false"/>
+	<file src = "Files/Images/Inventar/Medizin.png" download = "false"/>
+	<file src = "Files/Images/Inventar/BronzeTicket.png" download = "false"/>
+	<file src = "Files/Images/Inventar/SilverTicket.png" download = "false"/>
+	<file src = "Files/Images/Inventar/GoldTicket.png" download = "false"/>
+	<file src = "Files/Images/Inventar/RubinTicket.png" download = "false"/>
+	<file src = "Files/Images/Inventar/Zigaretten.png" download = "false"/>
+	<file src = "Files/Images/Inventar/Craftingpanel.png" download = "false"/>
+	<file src = "Files/Images/Inventar/Hotdogs.png" download = "false"/>
+	<file src = "Files/Images/Inventar/Eis.png" download = "false"/>
+	
+	<!-- Selfmenü -->
+	<file src = "Files/Images/Selfmenue/SpielerinformationenFarbe.png" download = "false"/>
+	<file src = "Files/Images/Selfmenue/SpielerinformationenGrau.png" download = "false"/>
+	<file src = "Files/Images/Selfmenue/LizenzenFarbe.png" download = "false"/>
+	<file src = "Files/Images/Selfmenue/LizenzenGrau.png" download = "false"/>
+	<file src = "Files/Images/Selfmenue/FahrzeugeFarbe.png" download = "false"/>
+	<file src = "Files/Images/Selfmenue/FahrzeugeGrau.png" download = "false"/>
+	<file src = "Files/Images/Selfmenue/SpielerverwaltungFarbe.png" download = "false"/>
+	<file src = "Files/Images/Selfmenue/SpielerverwaltungGrau.png" download = "false"/>
+	<file src = "Files/Images/Selfmenue/AdminsFarbe.png" download = "false"/>
+	<file src = "Files/Images/Selfmenue/AdminsGrau.png" download = "false"/>
+	<file src = "Files/Images/Selfmenue/Close.png" download = "false"/>
+	
+	<file src = "Files/Images/Gangtags/Yakuza.png"/>
+	<file src = "Files/Images/Gangtags/LosAztecas.png"/>
+	<file src = "Files/Images/Gangtags/NordicAngels.png"/>
+	<file src = "Files/Images/Gangtags/Mafia.png"/>
+	<file src = "Files/Images/Gangtags/Special1.png"/>
+	<file src = "Files/Images/Gangtags/Special2.png"/>
+	<file src = "Files/Images/Gangtags/Special3.png"/>
+	<file src = "Files/Images/Gangtags/Mechaniker.png"/>
+	
+	<file src = "Files/Images/Fabriken/Fabrik0.png"/>
+	<file src = "Files/Images/Fabriken/Fabrik6.png"/>
+	<file src = "Files/Images/Fabriken/Fabrik7.png"/>
+	<file src = "Files/Images/Fabriken/Fabrik8.png"/>
+	<file src = "Files/Images/Fabriken/Fabrik9.png"/>
+	
+	<file src = "Files/Images/Blips/1.png" download = "false"/>
+	<file src = "Files/Images/Blips/2.png" download = "false"/>
+	<file src = "Files/Images/Blips/3.png" download = "false"/>
+	<file src = "Files/Images/Blips/4.png" download = "false"/>
+	<file src = "Files/Images/Blips/5.png" download = "false"/>
+	<file src = "Files/Images/Blips/6.png" download = "false"/>
+	<file src = "Files/Images/Blips/7.png" download = "false"/>
+	<file src = "Files/Images/Blips/8.png" download = "false"/>
+	<file src = "Files/Images/Blips/9.png" download = "false"/>
+	<file src = "Files/Images/Blips/10.png" download = "false"/>
+	<file src = "Files/Images/Blips/11.png" download = "false"/>
+	<file src = "Files/Images/Blips/12.png" download = "false"/>
+	<file src = "Files/Images/Blips/13.png" download = "false"/>
+	<file src = "Files/Images/Blips/14.png" download = "false"/>
+	<file src = "Files/Images/Blips/15.png" download = "false"/>
+	<file src = "Files/Images/Blips/16.png" download = "false"/>
+	<file src = "Files/Images/Blips/17.png" download = "false"/>
+	<file src = "Files/Images/Blips/18.png" download = "false"/>
+	<file src = "Files/Images/Blips/19.png" download = "false"/>
+	<file src = "Files/Images/Blips/20.png" download = "false"/>
+	<file src = "Files/Images/Blips/21.png" download = "false"/>
+	<file src = "Files/Images/Blips/22.png" download = "false"/>
+	<file src = "Files/Images/Blips/23.png" download = "false"/>
+	<file src = "Files/Images/Blips/24.png" download = "false"/>
+	<file src = "Files/Images/Blips/25.png" download = "false"/>
+	<file src = "Files/Images/Blips/26.png" download = "false"/>
+	<file src = "Files/Images/Blips/27.png" download = "false"/>
+	<file src = "Files/Images/Blips/28.png" download = "false"/>
+	<file src = "Files/Images/Blips/29.png" download = "false"/>
+	<file src = "Files/Images/Blips/30.png" download = "false"/>
+	<file src = "Files/Images/Blips/31.png" download = "false"/>
+	<file src = "Files/Images/Blips/32.png" download = "false"/>
+	<file src = "Files/Images/Blips/33.png" download = "false"/>
+	<file src = "Files/Images/Blips/34.png" download = "false"/>
+	<file src = "Files/Images/Blips/35.png" download = "false"/>
+	<file src = "Files/Images/Blips/36.png" download = "false"/>
+	<file src = "Files/Images/Blips/37.png" download = "false"/>
+	<file src = "Files/Images/Blips/38.png" download = "false"/>
+	<file src = "Files/Images/Blips/39.png" download = "false"/>
+	<file src = "Files/Images/Blips/40.png" download = "false"/>
+	<file src = "Files/Images/Blips/41.png" download = "false"/>
+	<file src = "Files/Images/Blips/42.png" download = "false"/>
+	<file src = "Files/Images/Blips/43.png" download = "false"/>
+	<file src = "Files/Images/Blips/44.png" download = "false"/>
+	<file src = "Files/Images/Blips/45.png" download = "false"/>
+	<file src = "Files/Images/Blips/46.png" download = "false"/>
+	<file src = "Files/Images/Blips/47.png" download = "false"/>
+	<file src = "Files/Images/Blips/48.png" download = "false"/>
+	<file src = "Files/Images/Blips/49.png" download = "false"/>
+	<file src = "Files/Images/Blips/50.png" download = "false"/>
+	<file src = "Files/Images/Blips/51.png" download = "false"/>
+	<file src = "Files/Images/Blips/52.png" download = "false"/>
+	<file src = "Files/Images/Blips/53.png" download = "false"/>
+	<file src = "Files/Images/Blips/54.png" download = "false"/>
+	<file src = "Files/Images/Blips/55.png" download = "false"/>
+	<file src = "Files/Images/Blips/56.png" download = "false"/>
+	<file src = "Files/Images/Blips/57.png" download = "false"/>
+	<file src = "Files/Images/Blips/58.png" download = "false"/>
+	<file src = "Files/Images/Blips/59.png" download = "false"/>
+	<file src = "Files/Images/Blips/60.png" download = "false"/>
+	<file src = "Files/Images/Blips/61.png" download = "false"/>
+	<file src = "Files/Images/Blips/62.png" download = "false"/>
+	<file src = "Files/Images/Blips/63.png" download = "false"/>
+	
+	<!-- Textures -->
+	<file src = "Files/Images/Textures/kmb_atm_sign.png" download = "false"/>
+	<file src = "Files/Images/Textures/veding1_64.png" download = "false"/>
+	<file src = "Files/Images/Textures/veding2_64.png" download = "false"/>
+	
+	<file src = "Files/Images/Sammelkarten/Karte.png"/>
+	
+	<file src = "Files/Images/Colorpicker/blank.png"/>
+	<file src = "Files/Images/Colorpicker/cursor.png"/>
+	<file src = "Files/Images/Colorpicker/h.png"/>
+	<file src = "Files/Images/Colorpicker/sv.png"/>
+	
+	<file src = "Files/Sounds/Hitsound.mp3"/>
+	<file src = "Files/Sounds/Achievement.mp3" download = "false"/>
+	<file src = "Files/Sounds/Buy.wav"/>
+	<file src = "Files/Sounds/Infobox.wav"/>
+	<file src = "Files/Sounds/MenueClose.mp3"/>
+	<file src = "Files/Sounds/MenueOpen.mp3"/>
+	<file src = "Files/Sounds/QuestAccepted.mp3"/>
+	<file src = "Files/Sounds/QuestFinished.mp3"/>
+	<file src = "Files/Sounds/Sell.wav"/>
+	<file src = "Files/Sounds/Spitzhacke.wav"/>
+	<file src = "Files/Sounds/HandyVibration.mp3"/>
+	
+	<!-- Events -->
+	<file src = "Events/Files/Birthday/Balloon.png"/>
+	<file src = "Events/Files/Birthday/yay.mp3"/>
+	
+	<!-- Shader -->
+	<file src = "Files/Shader/Blur.fx"/>
+	<file src = "Files/Shader/Erdbeben.fx"/>
+	<file src = "Files/Shader/Shader.fx" download = "false"/>
+	<file src = "Files/Shader/Images/Moon.png"/>
+	
+	<file src = "Files/Fonts/Font.ttf"/>
+	<file src = "Files/Fonts/big_noodle_titling.ttf"/>
+	<file src = "Files/Fonts/big_noodle_titling_oblique.ttf"/>
+
+	<file src = "Files/Mods/Bigfoot.txd"/>
+	<file src = "Files/Mods/Bigfoot.dff"/>
+	<file src = "Files/Mods/Astronaut.txd"/>
+	<file src = "Files/Mods/Astronaut.dff"/>
+	<file src = "Files/Mods/Spitzhacke.txd"/>
+	<file src = "Files/Mods/Spitzhacke.dff"/>
+	<file src = "Files/Mods/Bear.txd"/>
+	<file src = "Files/Mods/Bear.dff"/>
+	<file src = "Files/Mods/Chicken.txd"/>
+	<file src = "Files/Mods/Chicken.dff"/>
+	<file src = "Files/Mods/Alligator.txd"/>
+	<file src = "Files/Mods/Alligator.dff"/>
+	
+	<!--
+		*/MAPS
+	-->
+	
+	<script src = "Files/Maps/mapEditorScriptingExtension_c.lua" type = "client"/>
+	<script src = "Files/Maps/mapEditorScriptingExtension_s.lua" type = "server"/>
+	
+	<map src = "Files/Maps/Umgebung/Bahnhof.map"/>
+	<map src = "Files/Maps/Umgebung/SFPD.map"/>
+	<map src = "Files/Maps/Umgebung/Stadthalle.map"/>
+	<map src = "Files/Maps/Umgebung/Wangcars.map"/>
+	<map src = "Files/Maps/Umgebung/Angellaeden.map"/>
+	<map src = "Files/Maps/Umgebung/Tankstellen.map"/>
+	<map src = "Files/Maps/Umgebung/vorLAT.map"/>
+	<map src = "Files/Maps/Umgebung/Schwarzmarkt.map"/>
+	<map src = "Files/Maps/Umgebung/Garagen.map"/>
+	<map src = "Files/Maps/Umgebung/Mautstellen.map"/>
+	<map src = "Files/Maps/Umgebung/Noobspawn.map"/>
+	<map src = "Files/Maps/Umgebung/Sammelobjekte.map"/>
+	<map src = "Files/Maps/Umgebung/Busfahrer.map"/>
+	<map src = "Files/Maps/Umgebung/Kreisverkehr.map"/>
+	<map src = "Files/Maps/Umgebung/Bank.map"/>
+	<map src = "Files/Maps/Umgebung/Krankenhaus.map"/>
+	<map src = "Files/Maps/Umgebung/Moebelhaus.map"/>
+	<map src = "Files/Maps/Umgebung/removeGarage.map"/>
+	<map src = "Files/Maps/Umgebung/Waffenboxen.map"/>
+	<map src = "Files/Maps/Umgebung/Mond.map"/>
+	<map src = "Files/Maps/Umgebung/PiratenInsel.map"/>
+	<map src = "Files/Maps/Umgebung/Zigarettenautomaten.map"/>
+	<map src = "Files/Maps/Umgebung/Wasserspender.map"/>
+	<map src = "Files/Maps/Umgebung/shootingrange.map"/>
+	<map src = "Files/Maps/Umgebung/BaseballZaun.map"/>
+	
+	<map src = "Files/Maps/Unternehmen/Fahrschule.map"/>
+	<map src = "Files/Maps/Unternehmen/Mechaniker.map"/>
+	<map src = "Files/Maps/Unternehmen/Trucker.map"/>
+	<map src = "Files/Maps/Unternehmen/Reporter.map"/>
+	
+	<map src = "Files/Maps/Fraktionen/LosAztecas.map"/>
+	<map src = "Files/Maps/Fraktionen/DillimoreDevils.map"/>
+	<map src = "Files/Maps/Fraktionen/Mafia.map"/>
+	<map src = "Files/Maps/Fraktionen/Yakuza.map"/>
+	<map src = "Files/Maps/Fraktionen/Drogenlabor.map"/>
+	<map src = "Files/Maps/Fraktionen/FBI.map"/>
+	<map src = "Files/Maps/Fraktionen/YakuzaSF.map"/>
+	<map src = "Files/Maps/Fraktionen/LosAztecasSF.map"/>
+	<map src = "Files/Maps/Fraktionen/DillimoreDevilsSF.map"/>
+	<map src = "Files/Maps/Fraktionen/MafiaSF.map"/>
+	
+	<map src = "Files/Maps/Jobs/Schrottplatzmitarbeiter.map"/>
+	<map src = "Files/Maps/Jobs/Holzfaeller.map"/>
+	<map src = "Files/Maps/Jobs/Hoehlenforscher.map"/>
+	
+	<map src = "Files/Maps/Fraktionsaktivitaeten/Fahrzeugraub.map"/>
+	<map src = "Files/Maps/Fraktionsaktivitaeten/Matsraub.map"/>
+	<map src = "Files/Maps/Fraktionsaktivitaeten/Casinoraub.map"/>
+	
+	<map src = "Files/Maps/Interiors/Bank.map"/>
+	<map src = "Files/Maps/Interiors/Buecherei.map"/>
+	<map src = "Files/Maps/Interiors/Kirche.map"/>
+	<map src = "Files/Maps/Interiors/Krankenhaus.map"/>
+	<map src = "Files/Maps/Interiors/Reporter.map"/>
+	<map src = "Files/Maps/Interiors/SFPD.map"/>
+	<map src = "Files/Maps/Interiors/Airport1.map"/>
+	<map src = "Files/Maps/Interiors/Airport2.map"/>
+	<map src = "Files/Maps/Interiors/Airport3.map"/>
+	<map src = "Files/Maps/Interiors/BlockDeagleArena.map"/>
+	
+	<!--
+		*/SCRIPTS
+	-->
+
+	<script src = "Shared/Languages/Texts.lua" type = "shared"/>
+	<script src = "Shared/Languages/sLanguage.lua"/>
+	<script src = "Shared/Languages/cLanguage.lua" type = "client"/>
+	
+	<script src = "sDownload.lua"/>
+	<script src = "cDownload.lua" type = "client"/>
+	
+	<script src = "Shared/Tables.lua" type = "shared"/>
+	
+	<script src = "sMain.lua"/>
+	<script src = "cMain.lua" type = "client"/>´
+	<script src = "Lobby/Client.lua" type = "client"/>
+
+	<!-- Allgemeines -->
+	<script src = "Client-files/GUI-Class/cGUI.lua" type = "client"/>
+	<script src = "smoothMoveCamera.lua" type = "client"/>
+	<script src = "attachedEffects.lua" type = "client"/>
+	<script src = "Client-files/Anzeigen/cTextures.lua" type = "client"/>
+	
+	<!-- Server -->
+	<script src = "Server-files/sLogs.lua"/>
+	<script src = "Server-files/sChatsystem.lua"/>
+	<script src = "Server-files/sKlicksystem.lua"/>
+	<script src = "Server-files/sHitbox.lua"/>
+	
+	<!-- Client -->
+	<script src = "Client-files/cHitbox.lua" type = "client"/>
+	<script src = "Client-files/cPeds.lua" type = "client"/>
+	
+	<!-- Anmeldebereich -->
+	<script src = "Server-files/Mysql/sAnmeldebereich.lua"/>
+	<script src = "Client-files/Mysql/cAnmeldebereich.lua" type = "client"/>
+	
+	<!-- Adminsystem -->
+	<script src = "Server-files/Adminsystem/sAdminsystem.lua"/>
+	<script src = "Server-files/Adminsystem/sEvents.lua"/>
+	<script src = "Server-files/Adminsystem/sSuperman.lua"/>
+	<script src = "Server-files/Adminsystem/sNews.lua"/>
+	<script src = "Client-files/Adminsystem/cAdminsystem.lua" type = "client"/>
+	<script src = "Client-files/Adminsystem/cPrison.lua" type = "client"/>
+	<script src = "Client-files/Adminsystem/cEvents.lua" type = "client"/>
+	<script src = "Client-files/Adminsystem/cSuperman.lua" type = "client"/>
+	<script src = "Client-files/Adminsystem/cNews.lua" type = "client"/>
+	
+	<!-- Errungenschaften -->
+	<script src = "Server-files/Errungenschaften/sAchievements.lua"/>
+	<script src = "Server-files/Errungenschaften/sSammelobjekte.lua"/>
+	<script src = "Server-files/Errungenschaften/sPrestige.lua"/>
+	<script src = "Server-files/Errungenschaften/sStatus.lua"/>
+	<script src = "Server-files/Errungenschaften/sQuests.lua"/>
+	<script src = "Server-files/Errungenschaften/sSammelkarten.lua"/>
+	<script src = "Client-files/Errungenschaften/cAchievements.lua" type = "client"/>
+	<script src = "Client-files/Errungenschaften/cSammelobjekte.lua" type = "client"/>
+	<script src = "Client-files/Errungenschaften/cPrestige.lua" type = "client"/>
+	<script src = "Client-files/Errungenschaften/cStatus.lua" type = "client"/>
+	<script src = "Client-files/Errungenschaften/cSammelkarten.lua" type = "client"/>
+	<script src = "Client-files/Errungenschaften/cQuests.lua" type = "client"/>
+	
+	<!-- CJ -->
+	<script src = "Server-files/CJ/sSkinshop.lua"/>
+	<script src = "Server-files/CJ/sFightingStyles.lua"/>
+	<script src = "Server-files/CJ/sGym.lua"/>
+	<script src = "Client-files/CJ/cSkinshop.lua" type = "client"/>
+	<script src = "Client-files/CJ/cGym.lua" type = "client"/>
+	<script src = "Client-files/CJ/cFightingStyles.lua" type = "client"/>
+	
+	<!-- Nebenjobs -->
+	<script src = "Server-files/Nebenjobs/sAngelsystem.lua"/>
+	<script src = "Server-files/Nebenjobs/sTauchen.lua"/>
+	<script src = "Server-files/Nebenjobs/sMoon.lua"/>
+	<script src = "Client-files/Nebenjobs/cAngelsystem.lua" type = "client"/>
+	<script src = "Client-files/Nebenjobs/cTauchen.lua" type = "client"/>
+	<script src = "Client-files/Nebenjobs/cMoon.lua" type = "client"/>
+	
+	<!-- Shops -->
+	<script src = "Server-files/Shops/sBar.lua"/>
+	<script src = "Server-files/Shops/sGartenclub.lua"/>
+	<script src = "Server-files/Shops/sRestaurants.lua"/>
+	<script src = "Server-files/Shops/sSupermarkt.lua"/>
+	<script src = "Server-files/Shops/sTankstellen.lua"/>
+	<script src = "Server-files/Shops/sAmmunation.lua"/>
+	<script src = "Server-files/Shops/sSprunk.lua"/>
+	<script src = "Server-files/Shops/sBuecherei.lua"/>
+	<script src = "Server-files/Shops/sBusiness.lua"/>
+	<script src = "Server-files/Shops/sMarktplatz.lua"/>
+	<script src = "Server-files/Shops/sStripclubs.lua"/>
+	<script src = "Server-files/Shops/sSexshops.lua"/>
+	<script src = "Server-files/Shops/sZoohandlung.lua"/>
+	<script src = "Client-files/Shops/cBar.lua" type = "client"/>
+	<script src = "Client-files/Shops/cGartenclub.lua" type = "client"/>
+	<script src = "Client-files/Shops/cRestaurants.lua" type = "client"/>
+	<script src = "Client-files/Shops/cSupermarkt.lua" type = "client"/>
+	<script src = "Client-files/Shops/cTankstellen.lua" type = "client"/>
+	<script src = "Client-files/Shops/cAmmunation.lua" type = "client"/>
+	<script src = "Client-files/Shops/cBuecherei.lua" type = "client"/>
+	<script src = "Client-files/Shops/cMarktplatz.lua" type = "client"/>
+	<script src = "Client-files/Shops/cBusiness.lua" type = "client"/>
+	<script src = "Client-files/Shops/cSprunk.lua" type = "client"/>
+	<script src = "Client-files/Shops/cSexshops.lua" type = "client"/>
+	<script src = "Client-files/Shops/cZoohandlung.lua" type = "client"/>
+	
+	<!-- Tutorial -->
+	<script src = "Server-files/Tutorial/sRundfahrt.lua"/>
+	<script src = "Server-files/Tutorial/sSequenzen.lua"/>
+	<script src = "Server-files/Tutorial/sTutorial.lua"/>
+	<script src = "Client-files/Tutorial/cIntro.lua" type = "client"/>
+	<script src = "Client-files/Tutorial/cRundfahrt.lua" type = "client"/>
+	<script src = "Client-files/Tutorial/cSequenzen.lua" type = "client"/>
+	<script src = "Client-files/Tutorial/cTutorial.lua" type = "client"/>
+	
+	<!-- Systeme -->
+	<script src = "Server-files/Systeme/sAFK.lua"/>
+	<script src = "Server-files/Systeme/sAnimationen.lua"/>
+	<script src = "Server-files/Systeme/sAnpflanzen.lua"/>
+	<script src = "Server-files/Systeme/sATM.lua"/>
+	<script src = "Server-files/Systeme/sDeathsystem.lua"/>
+	<script src = "Server-files/Systeme/sGaragen.lua"/>
+	<script src = "Server-files/Systeme/sGhettoblaster.lua"/>
+	<script src = "Server-files/Systeme/sInteraktion.lua"/>
+	<script src = "Server-files/Systeme/sInventar.lua"/>
+	<script src = "Server-files/Systeme/sKrankenhaus.lua"/>
+	<script src = "Server-files/Systeme/sLevelsystem.lua"/>
+	<script src = "Server-files/Systeme/sLotto.lua"/>
+	<script src = "Server-files/Systeme/sMautstellen.lua"/>
+	<script src = "Server-files/Systeme/sMoney.lua"/>
+	<script src = "Server-files/Systeme/sPostfach.lua"/>
+	<script src = "Server-files/Systeme/sSchutzzonen.lua"/>
+	<script src = "Server-files/Systeme/sSpielerverwaltung.lua"/>
+	<script src = "Server-files/Systeme/sTeleporter.lua"/>
+	<script src = "Server-files/Systeme/sTopliste.lua"/>
+	<script src = "Server-files/Systeme/sWaffenbox.lua"/>
+	<script src = "Server-files/Systeme/sWeedped.lua"/>
+	<script src = "Server-files/Systeme/sWetter.lua"/>
+	<script src = "Server-files/Systeme/sWaffenschein.lua"/>
+	<script src = "Server-files/Systeme/sBaustellen.lua"/>
+	<script src = "Server-files/Systeme/sPersonalien.lua"/>
+	<script src = "Server-files/Systeme/sHandy.lua"/>
+	<script src = "Server-files/Systeme/sHaustiere.lua"/>
+	<script src = "Server-files/Systeme/sShootingrange.lua"/>
+	<script src = "Server-files/Systeme/sCraftingsystem.lua"/>
+	<script src = "Server-files/Systeme/sDeagleArena.lua"/>
+	<script src = "Server-files/Systeme/sShooterarena.lua"/>
+	<script src = "Server-files/Systeme/sFallschirm.lua"/>
+	<script src = "Client-files/Systeme/cAnimationen.lua" type = "client"/>
+	<script src = "Client-files/Systeme/cATM.lua" type = "client"/>
+	<script src = "Client-files/Systeme/cErdbeben.lua" type = "client"/>
+	<script src = "Client-files/Systeme/cGaragen.lua" type = "client"/>
+	<script src = "Client-files/Systeme/cGhettoblaster.lua" type = "client"/>
+	<script src = "Client-files/Systeme/cInteraktion.lua" type = "client"/>
+	<script src = "Client-files/Systeme/cKrankenhaus.lua" type = "client"/>
+	<script src = "Client-files/Systeme/cPostfach.lua" type = "client"/>
+	<script src = "Client-files/Systeme/cSchwarzesBrett.lua" type = "client"/>
+	<script src = "Client-files/Systeme/cSpielerinformation.lua" type = "client"/>
+	<script src = "Client-files/Systeme/cSpielerverwaltung.lua" type = "client"/>
+	<script src = "Client-files/Systeme/cTopliste.lua" type = "client"/>
+	<script src = "Client-files/Systeme/cWaffenbox.lua" type = "client"/>
+	<script src = "Client-files/Systeme/cWaffenschein.lua" type = "client"/>
+	<script src = "Client-files/Systeme/cWeedped.lua" type = "client"/>
+	<script src = "Client-files/Systeme/cPersonalien.lua" type = "client"/>
+	<script src = "Client-files/Systeme/cLotto.lua" type = "client"/>
+	<script src = "Client-files/Systeme/cHaustiere.lua" type = "client"/>
+	<script src = "Client-files/Systeme/cShootingrange.lua" type = "client"/>
+	<script src = "Client-files/Systeme/cCraftingsystem.lua" type = "client"/>
+	<script src = "Client-files/Systeme/cWetter.lua" type = "client"/>
+	<script src = "Client-files/Systeme/cDeagleArena.lua" type = "client"/>
+	<script src = "Client-files/Systeme/cShooterarena.lua" type = "client"/>
+	
+	<!-- Haussystem -->
+	<script src = "Server-files/Haussystem/sHaussystem.lua"/>
+	<script src = "Server-files/Haussystem/sMoebel.lua"/>
+	<script src = "Server-files/Haussystem/sMoebelInventory.lua"/>
+	<script src = "Server-files/Haussystem/sHotels.lua"/>
+	<script src = "Server-files/Haussystem/sTiefgaragen.lua"/>
+	<script src = "Client-files/Haussystem/cHaussystem.lua" type = "client"/>
+	<script src = "Client-files/Haussystem/cMoebel.lua" type = "client"/>
+	<script src = "Client-files/Haussystem/cMoebelInventory.lua" type = "client"/>
+	<script src = "Client-files/Haussystem/cHotels.lua" type = "client"/>
+	
+	<!-- Fahrzeugsystem -->
+	<script src = "Server-files/Fahrzeugsystem/sTuningsystem.lua"/>
+	<script src = "Server-files/Fahrzeugsystem/sAllround.lua"/>
+	<script src = "Server-files/Fahrzeugsystem/sFahrzeuge.lua"/>
+	<script src = "Server-files/Fahrzeugsystem/sPaynSpray.lua"/>
+	<script src = "Server-files/Fahrzeugsystem/sTankstellen.lua"/>
+	<script src = "Server-files/Fahrzeugsystem/sAutohaus.lua"/>
+	<script src = "Server-files/Fahrzeugsystem/sSchluesselvergabe.lua"/>
+	<script src = "Server-files/Fahrzeugsystem/sFahrzeugstelle.lua"/>
+	<script src = "Server-files/Fahrzeugsystem/sAirport.lua"/>
+	<script src = "Server-files/Fahrzeugsystem/sWohnwagen.lua"/>
+	<script src = "Client-files/Fahrzeugsystem/cFahrzeugverwaltung.lua" type = "client"/>
+	<script src = "Client-files/Fahrzeugsystem/cLizenzen.lua" type = "client"/>
+	<script src = "Client-files/Fahrzeugsystem/cRadio.lua" type = "client"/>
+	<script src = "Client-files/Fahrzeugsystem/cTankstellen.lua" type = "client"/>
+	<script src = "Client-files/Fahrzeugsystem/cFahrzeugpanel.lua" type = "client"/>
+	<script src = "Client-files/Fahrzeugsystem/cAutohaus.lua" type = "client"/>
+	<script src = "Client-files/Fahrzeugsystem/cSchluesselvergabe.lua" type = "client"/>
+	<script src = "Client-files/Fahrzeugsystem/cFahrzeugstelle.lua" type = "client"/>
+	<script src = "Client-files/Fahrzeugsystem/cAirport.lua" type = "client"/>
+	<script src = "Client-files/Fahrzeugsystem/cWohnwagen.lua" type = "client"/>
+	<script src = "Client-files/Fahrzeugsystem/cTuningsystem.lua" type = "client"/>
+	<script src = "Client-files/Fahrzeugsystem/cColorPicker.lua" type = "client"/>
+	
+	<!-- Fraktionen -->
+	<script src = "Server-files/Fraktionen/sAllround.lua"/>
+	<script src = "Server-files/Fraktionen/sGangwarsystem.lua"/>
+	<script src = "Server-files/Fraktionen/sGatesystem.lua"/>
+	<script src = "Server-files/Fraktionen/sLager.lua"/>
+	<script src = "Server-files/Fraktionen/sMitgliederverwaltung.lua"/>
+	<script src = "Server-files/Fraktionen/sBuyVehicle.lua"/>
+	<script src = "Server-files/Fraktionen/sGangtags.lua"/>
+	<script src = "Server-files/Fraktionen/sMats.lua"/>
+	<script src = "Server-files/Fraktionen/sFabrikwar.lua"/>
+	<script src = "Server-files/Fraktionen/sBlacklist.lua"/>
+	<script src = "Server-files/Fraktionen/Polizei/sComputer.lua"/>
+	<script src = "Server-files/Fraktionen/Polizei/sFunktionen.lua"/>
+	<script src = "Server-files/Fraktionen/Polizei/sPolizei.lua"/>
+	<script src = "Server-files/Fraktionen/Polizei/sDuty.lua"/>
+	<script src = "Server-files/Fraktionen/Polizei/sATMs.lua"/>
+	<script src = "Server-files/Fraktionen/Aktivitaeten/sBombe.lua"/>
+	<script src = "Server-files/Fraktionen/Aktivitaeten/sDrogentransporter.lua"/>
+	<script src = "Server-files/Fraktionen/Aktivitaeten/sFahrzeugraub.lua"/>
+	<script src = "Server-files/Fraktionen/Aktivitaeten/sFlaggenjagd.lua"/>
+	<script src = "Server-files/Fraktionen/Aktivitaeten/sKistenabwurf.lua"/>
+	<script src = "Server-files/Fraktionen/Aktivitaeten/sStaatswaffentransporter.lua"/>
+	<script src = "Server-files/Fraktionen/Aktivitaeten/sWantedcard.lua"/>
+	<script src = "Server-files/Fraktionen/Aktivitaeten/sGeldtransporter.lua"/>
+	<script src = "Server-files/Fraktionen/Aktivitaeten/sMatsraub.lua"/>
+	<script src = "Server-files/Fraktionen/Aktivitaeten/sDrogenschiff.lua"/>
+	<script src = "Server-files/Fraktionen/Aktivitaeten/sCasinoraub.lua"/>
+	<script src = "Server-files/Fraktionen/Aktivitaeten/sWarenhausraub.lua"/>
+	<script src = "Server-files/Fraktionen/Aktivitaeten/sAsservatenkammer.lua"/>
+	<script src = "Server-files/Fraktionen/Aktivitaeten/sSchwarzpulvertransport.lua"/>
+	<script src = "Server-files/Fraktionen/Aktivitaeten/sBankraub.lua"/>
+	<script src = "Client-files/Fraktionen/cGangwarsystem.lua" type = "client"/>
+	<script src = "Client-files/Fraktionen/cLager.lua" type = "client"/>
+	<script src = "Client-files/Fraktionen/cMitgliederverwaltung.lua" type = "client"/>
+	<script src = "Client-files/Fraktionen/cBuyVehicle.lua" type = "client"/>
+	<script src = "Client-files/Fraktionen/cGangtags.lua" type = "client"/>
+	<script src = "Client-files/Fraktionen/cMats.lua" type = "client"/>
+	<script src = "Client-files/Fraktionen/cFabrikwar.lua" type = "client"/>
+	<script src = "Client-files/Fraktionen/cWantedsBlacklist.lua" type = "client"/>
+	<script src = "Client-files/Fraktionen/Polizei/cComputer.lua" type = "client"/>
+	<script src = "Client-files/Fraktionen/Polizei/cPolizei.lua" type = "client"/>
+	<script src = "Client-files/Fraktionen/Polizei/cDuty.lua" type = "client"/>
+	<script src = "Client-files/Fraktionen/Polizei/cATMs.lua" type = "client"/>
+	<script src = "Client-files/Fraktionen/Aktivitaeten/cDrogentransporter.lua" type = "client"/>
+	<script src = "Client-files/Fraktionen/Aktivitaeten/cFahrzeugraub.lua" type = "client"/>
+	<script src = "Client-files/Fraktionen/Aktivitaeten/cFlaggenjagd.lua" type = "client"/>
+	<script src = "Client-files/Fraktionen/Aktivitaeten/cWantedcard.lua" type = "client"/>
+	<script src = "Client-files/Fraktionen/Aktivitaeten/cStaatswaffentransporter.lua" type = "client"/>
+	<script src = "Client-files/Fraktionen/Aktivitaeten/cGeldtransporter.lua" type = "client"/>
+	<script src = "Client-files/Fraktionen/Aktivitaeten/cMatsraub.lua" type = "client"/>
+	<script src = "Client-files/Fraktionen/Aktivitaeten/cDrogenschiff.lua" type = "client"/>
+	<script src = "Client-files/Fraktionen/Aktivitaeten/cWarenhausraub.lua" type = "client"/>
+	<script src = "Client-files/Fraktionen/Aktivitaeten/cAsservatenkammer.lua" type = "client"/>
+	<script src = "Client-files/Fraktionen/Aktivitaeten/cSchwarzpulvertransport.lua" type = "client"/>
+	<script src = "Client-files/Fraktionen/Aktivitaeten/cBankraub.lua" type = "client"/>
+
+	<!-- Anzeigen -->
+	<script src = "Client-files/Anzeigen/cEigenmenue.lua" type = "client"/>
+	<script src = "Client-files/Anzeigen/cHilfemenue.lua" type = "client"/>
+	<script src = "Client-files/Anzeigen/cHUD.lua" type = "client"/>
+	<script src = "Client-files/Anzeigen/cInfobox.lua" type = "client"/>
+	<script src = "Client-files/Anzeigen/cInventar.lua" type = "client"/>
+	<script src = "Client-files/Anzeigen/cPayday.lua" type = "client"/>
+	<script src = "Client-files/Anzeigen/cScoreboard.lua" type = "client"/>
+	<script src = "Client-files/Anzeigen/cTacho.lua" type = "client"/>
+	<script src = "Client-files/Anzeigen/cInformation.lua" type = "client"/>
+	<script src = "Client-files/Anzeigen/cBreakingNews.lua" type = "client"/>
+	<script src = "Client-files/Anzeigen/cHandy.lua" type = "client"/>
+	<script src = "Client-files/Anzeigen/cNametag.lua" type = "client"/>
+	<script src = "Client-files/Anzeigen/cLanguage.lua" type = "client"/>
+	<script src = "Client-files/Anzeigen/cBlipslegende.lua" type = "client"/>
+	
+	<!-- Jobs -->
+	<script src = "Server-files/Jobs/sAllround.lua"/>
+	<script src = "Server-files/Jobs/sBusfahrer.lua"/>
+	<script src = "Server-files/Jobs/sFarmer.lua"/>
+	<script src = "Server-files/Jobs/sMeeresreiniger.lua"/>
+	<script src = "Server-files/Jobs/sMuellmann.lua"/>
+	<script src = "Server-files/Jobs/sPilot.lua"/>
+	<script src = "Server-files/Jobs/sPizzalieferant.lua"/>
+	<script src = "Server-files/Jobs/sSchrottplatzmitarbeiter.lua"/>
+	<script src = "Server-files/Jobs/sPostbote.lua"/>
+	<script src = "Server-files/Jobs/sHolzfaeller.lua"/>
+	<script src = "Server-files/Jobs/sTaxifahrer.lua"/>
+	<script src = "Server-files/Jobs/sHoehlenforscher.lua"/>
+	<script src = "Client-files/Jobs/cAllround.lua" type = "client"/>
+	<script src = "Client-files/Jobs/cBoxer.lua" type = "client"/>
+	<script src = "Client-files/Jobs/cBusfahrer.lua" type = "client"/>
+	<script src = "Client-files/Jobs/cFarmer.lua" type = "client"/>
+	<script src = "Client-files/Jobs/cJobcenter.lua" type = "client"/>
+	<script src = "Client-files/Jobs/cMeeresreiniger.lua" type = "client"/>
+	<script src = "Client-files/Jobs/cMuellmann.lua" type = "client"/>
+	<script src = "Client-files/Jobs/cPilot.lua" type = "client"/>
+	<script src = "Client-files/Jobs/cPizzalieferant.lua" type = "client"/>
+	<script src = "Client-files/Jobs/cPostbote.lua" type = "client"/>
+	<script src = "Client-files/Jobs/cSchrottplatzmitarbeiter.lua" type = "client"/>
+	<script src = "Client-files/Jobs/cHolzfaeller.lua" type = "client"/>
+	<script src = "Client-files/Jobs/cTaxifahrer.lua" type = "client"/>
+	<script src = "Client-files/Jobs/cHoehlenforscher.lua" type = "client"/>
+	
+	<!-- Unternehmen -->
+	<script src = "Server-files/Unternehmen/sAllround.lua"/>
+	<script src = "Server-files/Unternehmen/sReporter.lua"/>
+	<script src = "Server-files/Unternehmen/sMechaniker.lua"/>
+	<script src = "Server-files/Unternehmen/sFahrschule.lua"/>
+	<script src = "Server-files/Unternehmen/sHochzeit.lua"/>
+	<script src = "Server-files/Unternehmen/sTrucker.lua"/>
+	<script src = "Server-files/Unternehmen/sFire.lua"/>
+	<script src = "Server-files/Unternehmen/sRescueTeam.lua"/>
+	<script src = "Client-files/Unternehmen/cAllround.lua" type = "client"/>
+	<script src = "Client-files/Unternehmen/cMechaniker.lua" type = "client"/>
+	<script src = "Client-files/Unternehmen/cFahrschule.lua" type = "client"/>
+	<script src = "Client-files/Unternehmen/cHochzeit.lua" type = "client"/>
+	<script src = "Client-files/Unternehmen/cTrucker.lua" type = "client"/>
+	<script src = "Client-files/Unternehmen/cFire.lua" type = "client"/>
+	<script src = "Client-files/Unternehmen/cRescueTeam.lua" type = "client"/>
+	
+	<!-- Firmen -->
+	<script src = "Server-files/Firmen/sFirma.lua"/>
+	<script src = "Client-files/Firmen/cFirma.lua" type = "client"/>
+	
+	<!-- Easter Eggs -->
+	<script src = "Server-files/EasterEggs/sAlligator.lua"/>
+	<script src = "Client-files/EasterEggs/cBigfoot.lua" type = "client"/>
+	<script src = "Client-files/EasterEggs/cAlligator.lua" type = "client"/>
+	
+	<!-- Events -->
+	<script src = "Events/sEvents.lua"/>
+	<script src = "Events/cEvents.lua" type = "client"/>
+	
+	<script src = "ganzAmEnde.lua"/>
+</meta>

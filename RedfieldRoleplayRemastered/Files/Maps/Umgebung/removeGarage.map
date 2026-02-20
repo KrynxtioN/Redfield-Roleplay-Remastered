@@ -1,0 +1,4 @@
+<map edf:definitions="editor_main">
+    <removeWorldObject id="removeWorldObject (door_savhangr1) (1)" radius="10.346822" interior="0" model="16773" lodModel="0" posX="398.6539" posY="2476.7354" posZ="20.13934" rotX="0" rotY="0" rotZ="0"></removeWorldObject>
+    <removeWorldObject id="removeWorldObject (door_savhangr2) (1)" radius="10.346822" interior="0" model="16775" lodModel="0" posX="410.30542" posY="2476.7354" posZ="18.9396" rotX="0" rotY="0" rotZ="0"></removeWorldObject>
+</map>

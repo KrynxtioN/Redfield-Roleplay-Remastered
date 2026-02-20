@@ -1,0 +1,6 @@
+<map edf:definitions="editor_main">
+    <object id="object (ADAM_V_DOOR) (1)" breakable="true" interior="1" collisions="true" alpha="255" model="1569" doublesided="false" scale="1" dimension="10" posX="2149.8757" posY="1602.1086" posZ="1000.9677" rotX="0" rotY="0" rotZ="90"></object>
+    <object id="object (ADAM_V_DOOR) (2)" breakable="true" interior="1" collisions="true" alpha="255" model="1569" doublesided="false" scale="1" dimension="10" posX="2149.8838" posY="1604.4907" posZ="1003.4534" rotX="0" rotY="270" rotZ="89.997"></object>
+    <object id="object (imy_la_door) (1)" breakable="true" interior="1" alpha="255" model="3109" doublesided="false" scale="1" dimension="10" posX="2147.0576" posY="1604.5941" posZ="1006.3514" rotX="0" rotY="0" rotZ="270"></object>
+    <object id="object (imy_la_door) (2)" breakable="true" interior="1" alpha="255" model="3109" doublesided="false" scale="1" dimension="10" posX="2147.0576" posY="1604.5938" posZ="1008.7409" rotX="0" rotY="0" rotZ="270"></object>
+</map>
