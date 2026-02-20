@@ -8,36 +8,38 @@ setElementInterior(Buecherei.marker,1)
 addEventHandler("onClientMarkerHit",Buecherei.marker,function(player)
 	if(player == localPlayer)then
 		if(isWindowOpen())then
-			GUIEditor.window[1] = guiCreateWindow(341, 208, 696, 402, loc("Shops_1"), false)
+			if(getElementData(localPlayer,"Adminlevel") >= 2)then
+				GUIEditor.window[1] = guiCreateWindow(341, 208, 696, 402, loc("Shops_1"), false)
 
-			GUIEditor.gridlist[1] = guiCreateGridList(11, 26, 246, 366, false, GUIEditor.window[1])
-			id = guiGridListAddColumn(GUIEditor.gridlist[1], loc("Shops_2"), 0.2)
-			titel = guiGridListAddColumn(GUIEditor.gridlist[1], loc("Shops_3"), 0.7)
-			GUIEditor.label[1] = guiCreateLabel(267, 26, 419, 26, loc("Shops_4"), false, GUIEditor.window[1])
-			GUIEditor.memo[1] = guiCreateMemo(267, 62, 419, 287, "", false, GUIEditor.window[1])
-			guiMemoSetReadOnly(GUIEditor.memo[1], true)
-			GUIEditor.button[1] = guiCreateButton(267, 359, 203, 33, loc("Shops_5"), false, GUIEditor.window[1])
-			GUIEditor.button[2] = guiCreateButton(483, 359, 203, 33, loc("Shops_6"), false, GUIEditor.window[1])
-			setWindowDatas(1)
-			
-			triggerServerEvent("Buecherei.getEingereichteBooks",localPlayer)
-			
-			for i = 1,2 do
-				addEventHandler("onClientGUIClick",GUIEditor.button[i],function()
-					local clicked = guiGridListGetItemText(GUIEditor.gridlist[1],guiGridListGetSelectedItem(GUIEditor.gridlist[1]),1)
-					if(clicked ~= "")then
-						triggerServerEvent("Buecherei.freischaltenOrDelete",localPlayer,clicked,guiGetText(source))
-						triggerServerEvent("Buecherei.getEingereichteBooks",localPlayer)
-					end
+				GUIEditor.gridlist[1] = guiCreateGridList(11, 26, 246, 366, false, GUIEditor.window[1])
+				id = guiGridListAddColumn(GUIEditor.gridlist[1], loc("Shops_2"), 0.2)
+				titel = guiGridListAddColumn(GUIEditor.gridlist[1], loc("Shops_3"), 0.7)
+				GUIEditor.label[1] = guiCreateLabel(267, 26, 419, 26, loc("Shops_4"), false, GUIEditor.window[1])
+				GUIEditor.memo[1] = guiCreateMemo(267, 62, 419, 287, "", false, GUIEditor.window[1])
+				guiMemoSetReadOnly(GUIEditor.memo[1], true)
+				GUIEditor.button[1] = guiCreateButton(267, 359, 203, 33, loc("Shops_5"), false, GUIEditor.window[1])
+				GUIEditor.button[2] = guiCreateButton(483, 359, 203, 33, loc("Shops_6"), false, GUIEditor.window[1])
+				setWindowDatas(1)
+				
+				triggerServerEvent("Buecherei.getEingereichteBooks",localPlayer)
+				
+				for i = 1,2 do
+					addEventHandler("onClientGUIClick",GUIEditor.button[i],function()
+						local clicked = guiGridListGetItemText(GUIEditor.gridlist[1],guiGridListGetSelectedItem(GUIEditor.gridlist[1]),1)
+						if(clicked ~= "")then
+							triggerServerEvent("Buecherei.freischaltenOrDelete",localPlayer,clicked,guiGetText(source))
+							triggerServerEvent("Buecherei.getEingereichteBooks",localPlayer)
+						end
+					end,false)
+				end
+				
+				addEventHandler("onClientGUIClick",GUIEditor.gridlist[1],function()
+						local clicked = guiGridListGetItemText(GUIEditor.gridlist[1],guiGridListGetSelectedItem(GUIEditor.gridlist[1]),1)
+						if(clicked ~= "")then
+							triggerServerEvent("Buecherei.getEingereichtesBookData",localPlayer,clicked)
+						end
 				end,false)
 			end
-			
-			addEventHandler("onClientGUIClick",GUIEditor.gridlist[1],function()
-					local clicked = guiGridListGetItemText(GUIEditor.gridlist[1],guiGridListGetSelectedItem(GUIEditor.gridlist[1]),1)
-					if(clicked ~= "")then
-						triggerServerEvent("Buecherei.getEingereichtesBookData",localPlayer,clicked)
-					end
-			end,false)
 		end
 	end
 end)
