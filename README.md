@@ -1,6 +1,6 @@
 # Redfield Roleplay Remastered
 
-Westside Roleplay is an extensive roleplay game mode that was developed between 2016 and 2020.
+Redfield Roleplay Remastered is an extensive roleplay game mode that was developed between 2016 and 2020.
 
 |Category|Amount|
 |---|---|
