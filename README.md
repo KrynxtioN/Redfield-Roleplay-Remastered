@@ -8,8 +8,6 @@ The gamemode includes a wide variety of roleplay systems, including jobs, factio
 
 ## 👤 Accounts & Player Progression
 
-The resource contains account and progression code, including:
-
 - Registration and login
 - Player data management
 - Level system
@@ -21,8 +19,6 @@ The resource contains account and progression code, including:
 
 ## 👮 Factions & Organizations
 
-Faction-related client and server scripts cover:
-
 - Member management
 - Faction vehicle purchasing
 - Faction storage and materials
@@ -33,8 +29,6 @@ Faction-related client and server scripts cover:
 - Police-related interactions
 
 ## 💣 Robberies & Faction Activities
-
-The following activities have dedicated scripts:
 
 - Bank robbery
 - Warehouse robbery
@@ -93,7 +87,6 @@ The included job scripts cover:
 
 - House system
 - Furniture system
-- Furniture inventory
 - Hotels
 - Garage-related systems
 
@@ -130,7 +123,6 @@ The included job scripts cover:
 - Inventory
 - Crafting
 - Weapon boxes
-- Furniture inventory
 - Pet system
 - Planting system
 
