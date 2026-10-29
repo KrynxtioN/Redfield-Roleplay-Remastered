@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="RRR_BANNER.png">
+  <img src="RRR_Banner.png">
 </p>
 
 Redfield Roleplay Remastered is a roleplay gamemode for Multi Theft Auto: San Andreas (MTA:SA).
