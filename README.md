@@ -1,391 +1,192 @@
-
-# Redfield Roleplay Remastered
+<p align="center">
+  <img src="RRR_BANNER.png">
+</p>
 
 Redfield Roleplay Remastered is a German-language roleplay gamemode for Multi Theft Auto: San Andreas (MTA:SA).
 
-The gamemode includes various roleplay systems such as jobs, factions, houses, vehicles, businesses, quests, achievements, criminal activities and several additional gameplay features.
-
 ## 👤 Accounts & Player Progression
 
-Redfield Roleplay Remastered includes its own registration and login system with MySQL persistence.
-
-The gamemode provides several systems for managing player accounts and progression, including:
+The resource contains account and progression code, including:
 
 - Registration and login
-- Persistent player data
-- Player levels and experience
+- Player data management
+- Level system
 - Prestige system
-- Quest system
-- Achievements
-- Collectible cards
-- Collectible objects
-- Player statistics
-- Player status system
-- Leaderboards
-- Payday system
-- Inventory and items
-- Tutorial and introduction system
-
-The integrated level, prestige and achievement systems provide additional progression opportunities beyond regular roleplay activities.
+- Quests and achievements
+- Collectible cards and objects
+- Player status and leaderboards
+- Inventory and crafting
 
 ## 👮 Factions & Organizations
 
-Redfield Roleplay Remastered includes a faction system with various government organizations and criminal factions.
+Faction-related client and server scripts cover:
 
-Factions have access to different features depending on their organization, including faction vehicles, storage facilities, gates and faction-specific activities.
-
-The faction system includes:
-
-- Faction member management
+- Member management
 - Faction vehicle purchasing
-- Faction storage
-- Faction gates
-- Materials system
-- Blacklist management
-- Gangwar system
-- Factory wars
+- Faction storage and materials
+- Gangwars and factory wars
 - Gang tags
-- Wanted system
-- Police duty system
-- Police computer
-- Police equipment and interactions
+- Wanted and blacklist systems
+- Police duty and police computer
+- Police-related interactions
 
-The gamemode also includes several activities designed specifically for faction gameplay.
+## 💣 Robberies & Faction Activities
 
-## 💣 Faction Activities & Robberies
-
-Redfield Roleplay Remastered contains various criminal activities and missions for factions.
-
-Implemented activities include:
+The following activities have dedicated scripts:
 
 - Bank robbery
-- Casino robbery
 - Warehouse robbery
 - Vehicle robbery
 - Money transporter
-- Drug transporter
-- Drug ship
+- Drug transporter and drug ship
 - Materials robbery
 - Black powder transport
 - Government weapon transporter
-- Supply crate drops
 - Flag hunting
-- Bomb system
-- Wanted cards
-- Evidence storage
-
-These activities provide additional gameplay opportunities for criminal factions and law enforcement organizations.
+- Wanted cards and evidence storage
 
 ## 💼 Jobs & Employment
 
-Players can earn money through a variety of civilian jobs distributed across the game world.
+The included job scripts cover:
 
-Available job implementations include:
-
-- 🚌 Bus Driver
-- 🚕 Taxi Driver
-- 🍕 Pizza Delivery Driver
+- 🚌 Bus driver
+- 🚕 Taxi driver
+- 🍕 Pizza delivery
 - 📮 Postman
-- 🗑️ Garbage Collector
-- 🌊 Ocean Cleaner
+- 🗑️ Garbage collector
+- 🌊 Ocean cleaner
 - 🌾 Farmer
 - 🪓 Lumberjack
-- ⛏️ Cave Explorer
+- ⛏️ Cave explorer
 - ✈️ Pilot
-- 🔧 Scrapyard Worker
-
-The gamemode also includes a job center where players can access employment-related features.
-
-Additional job-related client systems include a boxer job and general job functionality.
-
-Different jobs provide their own gameplay mechanics and activities.
+- 🔧 Scrapyard worker
+- 🥊 Boxer
 
 ## 🎣 Side Jobs & Activities
 
-Redfield Roleplay Remastered includes several side jobs and activities beyond regular employment.
-
-Available systems include:
-
 - Fishing
 - Diving
-- Moon activity
-- Gym
-- Fighting styles
+- Flying to the moon
+- Gym and fighting styles
 - Shooting range
 - Deagle Arena
 - Shooter Arena
 
-These systems provide additional activities outside standard roleplay and faction gameplay.
-
-## 🚗 Vehicle System
-
-Redfield Roleplay Remastered includes a vehicle ownership and management system.
-
-Players can purchase, manage and customize vehicles through various dealerships and vehicle-related services.
-
-The vehicle system includes:
+## 🚗 Vehicle Systems
 
 - Vehicle dealerships
-- Vehicle purchasing
-- Persistent vehicle ownership
 - Vehicle management panel
 - Vehicle key sharing
-- Fuel and gas stations
-- Vehicle speedometer
-- Vehicle tuning
-- Vehicle color selection
-- Pay 'n' Spray
+- Fuel stations
+- Speedometer
+- Vehicle tuning and color picker
 - Vehicle licenses
 - Vehicle radio
-- Vehicle garages
+- Garages
 - Vehicle collection point
-- Airport-related systems
+- Airport-related scripts
 - Caravan system
-- Vehicle-related commands and interactions
-
-The custom speedometer and vehicle management interfaces provide additional functionality for vehicle owners.
 
 ## 🏠 Housing & Properties
 
-The integrated housing system allows players to interact with residential properties throughout the game world.
-
-The system includes:
-
-- House purchasing
-- House ownership
-- House management
+- House system
 - Furniture system
 - Furniture inventory
-- Hotel system
-- Underground garages
-- Persistent house data
-
-The furniture system provides additional customization options for properties.
+- Hotels
+- Garage-related systems
 
 ## 💰 Economy & Banking
 
-Redfield Roleplay Remastered features an economy system connecting jobs, vehicles, properties, shops and various other activities.
-
-Players can earn and spend money through different gameplay systems.
-
-Economy-related features include:
-
-- Player money management
-- Banking and ATM system
-- Payday system
-- Job earnings
-- Vehicle purchases
-- Property purchases
-- Shopping and services
-- Business-related activities
-- Lottery system
+- Money system
+- ATMs
+- Payday-related interface
+- Lottery
 - Marketplace
-
-The economy is integrated into many of the gamemode's roleplay features.
+- Shops and businesses
 
 ## 🏢 Businesses & Services
 
-The gamemode includes multiple businesses, companies and service systems.
-
-Implemented businesses and services include:
-
 - Driving school
-- Mechanic service
+- Mechanics
 - Fire department
 - Rescue team
-- Reporter service
-- Trucking company
+- Reporters
+- Trucking
 - Wedding system
 - Company management
-- Restaurants
-- Supermarkets
+- Restaurants and supermarkets
 - Ammu-Nation
-- Bars
-- Library
+- Bars and library
 - Garden club
-- Marketplace
 - Gas stations
 - Pet shops
-- Adult shops
-- Strip clubs
+- Adult shops and strip clubs
 - Sprunk vending machines
 
-These systems provide additional locations and roleplay interactions throughout the game world.
+## 🎒 Inventory, Items & Pets
 
-## 🎯 Quests, Levels & Achievements
-
-Redfield Roleplay Remastered contains several progression and reward systems.
-
-The gamemode includes:
-
-- Level system
-- Prestige system
-- Quest system
-- Achievement system
-- Collectible cards
-- Collectible objects
-- Player status system
-- Leaderboards
-
-These features complement the regular jobs and faction activities by providing additional objectives and progression systems.
-
-## 🎒 Inventory & Crafting
-
-The gamemode includes an inventory and crafting system for managing items and resources.
-
-Implemented features include:
-
-- Custom inventory
-- Item management
-- Crafting system
-- Materials
+- Inventory
+- Crafting
 - Weapon boxes
 - Furniture inventory
-
-The inventory system is connected to several other gameplay features.
-
-## 🐾 Pets & Additional Systems
-
-Redfield Roleplay Remastered includes a pet system and several other gameplay features.
-
-Additional systems include:
-
 - Pet system
-- Pet shop
 - Planting system
-- Weed-related NPC
-- Character animations
-- Player interactions
-- Player identification system
-- Mailbox system
-- Notice board
-- Mobile phone system
-- Ghettoblaster
-- Parachute system
-
-These systems provide additional interactions and activities throughout the game world.
 
 ## 🔫 Weapons & Combat
 
-The gamemode includes several weapon and combat systems that modify different aspects of GTA:SA gameplay.
-
-Implemented features include:
-
-- Custom hitbox system
-- Weapon license system
-- Ammu-Nation
+- Custom hitbox code
+- Weapon license
 - Shooting range
-- Weapon boxes
 - Fighting styles
-- Deagle Arena
-- Shooter Arena
-- Faction combat
-- Gangwars
-- Factory wars
+- PvP arenas
+- Gangwars and factory wars
 
-These systems support both regular roleplay combat and dedicated PvP activities.
+## 🎮 Additional Gameplay Systems
 
-## 🎮 Activities & Additional Gameplay
-
-Redfield Roleplay Remastered provides various activities beyond standard jobs and faction gameplay.
-
-Additional gameplay systems include:
-
-- Fishing
-- Diving
-- Gym
-- Fighting styles
-- Gangwars
-- Factory wars
-- Deagle Arena
-- Shooter Arena
-- Shooting range
-- Lottery
-- Planting
-- Caravan system
-- Earthquake system
-- Interactive construction sites
+- Mobile phone
+- Player interactions and identification
+- Animations
+- Mailbox
+- Ghettoblaster
+- Parachute
+- Construction sites
 - Tolls
 - Safe zones
 - Teleporters
-- Garages
-- Weather system
-- Parachute system
+- Weather
+- Hospital and death system
+- AFK system
+- Easter egg scripts (including Alligator and Bigfoot)
 
-The gamemode also includes several Easter egg systems, including Alligator and Bigfoot.
+## 🛡️ Administration
 
-## 🏥 Hospital & Death System
-
-Redfield Roleplay Remastered includes systems for handling player deaths and hospital-related gameplay.
-
-Implemented systems include:
-
-- Death system
-- Hospital system
-- Rescue team
-- Player interaction system
-
-These systems provide additional functionality for medical and emergency-related roleplay.
-
-## 🛡️ Administration & Server Management
-
-The gamemode includes its own administration and server management systems.
-
-Administration features include:
-
-- Administrative commands
+- Admin interface and commands
 - Player management
-- Administrative interface
-- Event management
-- News management
+- Event and news management
 - Prison system
-- Logging system
 - Superman functionality
-- Administrative utilities
 
-These systems provide tools for managing the server and its players.
-
-## 🖥️ User Interface & Additional Systems
-
-Redfield Roleplay Remastered includes several custom interfaces and utility systems.
+## 🖥️ User Interface
 
 - Custom HUD
-- Custom speedometer
-- Player scoreboard
-- Custom nametags
+- Speedometer
+- Scoreboard and nametags
 - Infobox notifications
 - Breaking news
-- Information panels
 - Help menu
 - Inventory interface
 - Mobile phone interface
-- Vehicle management panel
-- House management system
-- Faction management
-- Job center
-- Custom chat system
-- Player interaction system
-- Player management
+- Vehicle and house interfaces
 - Map blip legend
-- Custom textures
-- Custom GUI elements
-- Intro system
-- Tutorial
-- Guided introduction tour
-- Payday interface
-- Weather system
-- Hospital and death systems
-- Skin shop
-- Character animations
+- Intro and tutorial-related scripts
 - Language interface
 
 ## ⚙️ Installation
 
-1. Place the `RedfieldRoleplayRemastered` folder inside your MTA server's `resources` directory.
-2. Create a MySQL database and import the included `redfieldroleplay.sql` file.
-3. Configure the database connection in `sMain.lua`.
-4. Ensure that any additional required resources are installed and configured.
-5. Start the `RedfieldRoleplayRemastered` resource on your MTA server.
+1. Place the RedfieldRoleplayRemastered folder and the required resources bone_attach and customblips inside your MTA server's resources directory.
+2. Create a MySQL database and import the redfieldroleplay.sql file.
+3. Configure the MySQL database connection in sMain.lua to match your server environment.
+4. Start the required resources (bone_attach and customblips), followed by RedfieldRoleplayRemastered, on your MTA server.
 
 ## 🎬 Media
 
@@ -456,12 +257,12 @@ Redfield Roleplay Remastered includes several custom interfaces and utility syst
 
 ## 📊 Statistics
 
-|Category|Amount|
+| Category | Amount |
 |---|---|
-LUA files|293|
-other files|325|
-functions|1734|
-lines|29357|
-characters|1250938|
-comment-lines|1548|
-comment-characters|38228|
+| LUA files | 293 |
+| Other files | 325 |
+| Functions | 1734 |
+| Lines | 29357 |
+| Characters | 1250938 |
+| Comment lines | 1548 |
+| Comment characters | 38228 |
