@@ -2,7 +2,9 @@
   <img src="RRR_BANNER.png">
 </p>
 
-Redfield Roleplay Remastered is a German-language roleplay gamemode for Multi Theft Auto: San Andreas (MTA:SA).
+Redfield Roleplay Remastered is a roleplay gamemode for Multi Theft Auto: San Andreas (MTA:SA).
+
+The gamemode includes a wide variety of roleplay systems, including jobs, factions, houses, businesses, vehicles, quests, achievements, side activities and pets.
 
 ## 👤 Accounts & Player Progression
 
