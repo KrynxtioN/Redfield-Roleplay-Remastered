@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="RRR_Banner.png">
-</p>
-
 Redfield Roleplay Remastered is a roleplay gamemode for Multi Theft Auto: San Andreas (MTA:SA).
 
 The gamemode includes a wide variety of roleplay systems, including jobs, factions, houses, businesses, vehicles, quests, achievements, side activities and pets.
