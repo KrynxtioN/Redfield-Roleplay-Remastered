@@ -41,7 +41,7 @@ The gamemode features character progression, faction management, an extensive in
 - Drug transporter and drug ship
 - Materials robbery
 - Black powder transport
-- Government weapon transporter
+- Weapon transporter
 - Flag hunting
 
 ### 💼 Jobs & Employment
