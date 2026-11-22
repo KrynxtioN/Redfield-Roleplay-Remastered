@@ -6,8 +6,6 @@ Redfield Roleplay Remastered is a feature-rich roleplay gamemode for **Multi The
 
 The gamemode combines character progression, faction management, an extensive economy, property ownership, vehicle customization, criminal activities and numerous jobs and recreational activities into a complete multiplayer roleplay experience.
 
-With **293 Lua files, over 1,700 functions and approximately 29,000 lines of code**, the project includes a wide variety of interconnected systems and custom gameplay features.
-
 ---
 
 ## ✨ Features
