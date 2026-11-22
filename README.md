@@ -2,9 +2,9 @@
 
 **A comprehensive roleplay gamemode for Multi Theft Auto: San Andreas (MTA:SA).**
 
-Redfield Roleplay Remastered is a feature-rich roleplay gamemode for **Multi Theft Auto: San Andreas**, offering an extensive collection of gameplay systems, interactive features and roleplay mechanics.
+Redfield Roleplay Remastered is a feature-rich gamemode for **Multi Theft Auto: San Andreas**, offering an extensive collection of interconnected gameplay systems and roleplay mechanics.
 
-The gamemode combines character progression, faction management, an extensive economy, property ownership, vehicle customization, criminal activities and numerous jobs and recreational activities into a complete multiplayer roleplay experience.
+The gamemode features character progression, faction management, a player-driven economy, property ownership, vehicle customization, criminal activities, various jobs and numerous recreational activities.
 
 ---
 
@@ -19,7 +19,6 @@ The gamemode combines character progression, faction management, an extensive ec
 - Quests and achievements
 - Collectible cards and hidden objects
 - Player statistics and leaderboards
-- Inventory and crafting
 
 ### 👮 Factions & Organizations
 
@@ -30,8 +29,7 @@ The gamemode combines character progression, faction management, an extensive ec
 - Gang tags
 - Wanted and blacklist systems
 - Police duty system
-- Police computer
-- Police-related interactions
+- Police computer and interactions
 - Evidence storage and wanted cards
 
 ### 💣 Robberies & Criminal Activities
@@ -68,11 +66,10 @@ The gamemode includes 12 different jobs, providing players with various opportun
 - Fishing
 - Diving
 - Moon flight activity
-- Gym and fighting styles
+- Gym
 - Shooting range
 - Desert Eagle Arena
 - Shooter Arena
-- Collectible hunting
 
 ### 🚗 Vehicles & Transportation
 
@@ -84,7 +81,7 @@ The gamemode includes 12 different jobs, providing players with various opportun
 - Vehicle tuning and color selection
 - Vehicle licenses
 - Vehicle radio
-- Garages
+- Vehicle garages
 - Vehicle collection point
 - Airport-related systems
 - Caravan system
@@ -94,7 +91,6 @@ The gamemode includes 12 different jobs, providing players with various opportun
 - House ownership and management
 - Furniture system
 - Hotels
-- Garage-related functionality
 
 ### 💰 Economy & Banking
 
@@ -103,7 +99,6 @@ The gamemode includes 12 different jobs, providing players with various opportun
 - Payday interface
 - Lottery system
 - Player marketplace
-- Shops and businesses
 
 ### 🏢 Businesses & Public Services
 
@@ -136,10 +131,7 @@ The gamemode includes 12 different jobs, providing players with various opportun
 
 - Custom hitbox implementation
 - Weapon licensing
-- Shooting range
 - Fighting styles
-- PvP arenas
-- Gangwars and factory wars
 
 ### 🌍 Additional Gameplay Systems
 
@@ -170,15 +162,10 @@ The gamemode includes 12 different jobs, providing players with various opportun
 ### 🖥️ User Interface
 
 - Custom HUD
-- Speedometer
 - Scoreboard and nametags
 - Infobox notifications
 - Breaking news
 - Help menu
-- Inventory interface
-- Mobile phone interface
-- Vehicle management interface
-- Housing interfaces
 - Map blip legend
 - Introduction and tutorial interfaces
 - Language interface
@@ -257,7 +244,7 @@ A collection of screenshots showcasing the gamemode's interfaces, environments a
 </p>
 
 <details>
-<summary><b>View All Screenshots</b></summary>
+<summary><b>View More Screenshots</b></summary>
 
 <p align="center">
   <img src="Screenshots/Screenshot_%207.png" width="350">
