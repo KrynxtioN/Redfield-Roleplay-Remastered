@@ -4,7 +4,7 @@
 
 Redfield Roleplay Remastered is a feature-rich gamemode for **Multi Theft Auto: San Andreas**, offering an extensive collection of interconnected gameplay systems and roleplay mechanics.
 
-The gamemode features character progression, faction management, a player-driven economy, property ownership, vehicle customization, criminal activities, various jobs and numerous recreational activities.
+The gamemode features character progression, faction management, an extensive in-game economy, property ownership, vehicle customization, criminal activities, various jobs and numerous recreational activities.
 
 ---
 
@@ -222,15 +222,11 @@ Check the server console for errors and ensure that the database connection and 
 
 ---
 
-## 🎬 Gameplay Preview
-
-Watch Redfield Roleplay Remastered in action:
+## 🎬 Media
 
 **[Watch Gameplay on YouTube](https://youtu.be/PZLQRtp3rf8)**
 
----
-
-## 📸 Screenshots
+### Screenshots
 
 A collection of screenshots showcasing the gamemode's interfaces, environments and gameplay features.
 
