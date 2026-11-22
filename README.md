@@ -1,156 +1,114 @@
 # Redfield Roleplay Remastered
 
-**A feature-rich roleplay gamemode for Multi Theft Auto: San Andreas (MTA:SA).**
+**A comprehensive roleplay gamemode for Multi Theft Auto: San Andreas (MTA:SA).**
 
-Redfield Roleplay Remastered is a comprehensive multiplayer roleplay gamemode developed for **Multi Theft Auto: San Andreas**. It provides an extensive collection of interconnected gameplay systems designed to create a dynamic and engaging roleplay environment.
+Redfield Roleplay Remastered is a feature-rich roleplay gamemode for **Multi Theft Auto: San Andreas**, offering an extensive collection of gameplay systems, interactive features and roleplay mechanics.
 
-From character progression, faction management and economic activities to vehicle customization, property ownership, criminal operations and recreational activities, the gamemode offers a wide range of features and gameplay opportunities.
+The gamemode combines character progression, faction management, an extensive economy, property ownership, vehicle customization, criminal activities and numerous jobs and recreational activities into a complete multiplayer roleplay experience.
 
-The project includes **293 Lua files, over 1,700 functions and approximately 29,000 lines of code**, covering both core gameplay mechanics and supporting systems.
-
----
-
-## ✨ Features Overview
-
-| Category | Description |
-|---|---|
-| 👤 Player Progression | Accounts, levels, prestige, achievements and quests |
-| 👮 Factions & Organizations | Faction management, gangwars, police systems and faction activities |
-| 💼 Jobs & Careers | 12 different jobs with individual gameplay mechanics |
-| 💰 Economy & Banking | Banking, businesses, marketplaces, shops and financial systems |
-| 🚗 Vehicles & Transportation | Dealerships, tuning, garages, licenses and vehicle management |
-| 🏠 Housing & Properties | Property ownership, furniture, hotels and garages |
-| 🔫 Criminal Activities | Robberies, illegal transports, wanted systems and gang conflicts |
-| 🎮 Activities & Minigames | Fishing, diving, arenas, collectibles and recreational activities |
-| 🎒 Inventory & Crafting | Item management, crafting, planting and weapon boxes |
-| 🐾 Pets & Companions | Pet ownership and management |
-| 🛡️ Administration | Administrative tools, player management and server moderation |
-| 🖥️ User Interface | Custom HUD, interactive panels, notifications and menus |
+With **293 Lua files, over 1,700 functions and approximately 29,000 lines of code**, the project includes a wide variety of interconnected systems and custom gameplay features.
 
 ---
 
-## 👤 Player Accounts & Progression
+## ✨ Features
 
-A collection of systems for managing player accounts, character progression and long-term gameplay.
+### 👤 Accounts & Player Progression
 
-- Account registration and authentication
+- Account registration and login
 - Persistent player data management
-- Level and experience progression
+- Level and experience system
 - Prestige system
-- Quest and achievement systems
+- Quests and achievements
 - Collectible cards and hidden objects
 - Player statistics and leaderboards
-- Inventory and crafting functionality
+- Inventory and crafting
 
-## 👮 Factions & Organizations
+### 👮 Factions & Organizations
 
-Extensive faction systems supporting organizational management, law enforcement and competitive gameplay.
-
-**Faction Management**
-- Member and organization management
+- Faction member management
 - Faction vehicle purchasing and management
-- Shared faction storage and materials
-- Gang tags and territory-related activities
+- Faction storage and materials
 - Gangwars and factory wars
-
-**Law Enforcement**
+- Gang tags
+- Wanted and blacklist systems
 - Police duty system
-- Police computer and related tools
-- Wanted and blacklist management
-- Police-specific interactions
+- Police computer
+- Police-related interactions
 - Evidence storage and wanted cards
 
-## 💣 Robberies & Criminal Activities
+### 💣 Robberies & Criminal Activities
 
-Various criminal operations and faction-based activities introduce additional challenges and competitive gameplay.
-
-- Bank robberies
-- Warehouse robberies
-- Vehicle robberies
-- Money transporter operations
-- Drug transporter missions
-- Drug ship activities
-- Materials robberies
-- Black powder transports
-- Government weapon transports
+- Bank robbery
+- Warehouse robbery
+- Vehicle robbery
+- Money transporter
+- Drug transporter and drug ship
+- Materials robbery
+- Black powder transport
+- Government weapon transporter
 - Flag hunting
-- Wanted and evidence-related systems
 
-## 💼 Jobs & Employment
+### 💼 Jobs & Employment
 
-The gamemode includes **12 different jobs**, providing players with alternative ways to earn money and participate in the server economy.
+The gamemode includes 12 different jobs, providing players with various opportunities to earn money and participate in the in-game economy.
 
-| Job | Job |
-|---|---|
-| 🚌 Bus Driver | 🚕 Taxi Driver |
-| 🍕 Pizza Delivery | 📮 Postman |
-| 🗑️ Garbage Collector | 🌊 Ocean Cleaner |
-| 🌾 Farmer | 🪓 Lumberjack |
-| ⛏️ Cave Explorer | ✈️ Pilot |
-| 🔧 Scrapyard Worker | 🥊 Boxer |
+- Bus Driver
+- Taxi Driver
+- Pizza Delivery
+- Postman
+- Garbage Collector
+- Ocean Cleaner
+- Farmer
+- Lumberjack
+- Cave Explorer
+- Pilot
+- Scrapyard Worker
+- Boxer
 
-## 🎮 Activities & Minigames
+### 🎮 Side Activities & Minigames
 
-Beyond traditional roleplay, players can participate in numerous optional activities.
-
-- Fishing and diving
+- Fishing
+- Diving
 - Moon flight activity
 - Gym and fighting styles
 - Shooting range
 - Desert Eagle Arena
 - Shooter Arena
 - Collectible hunting
-- Additional recreational activities
 
-## 🚗 Vehicles & Transportation
+### 🚗 Vehicles & Transportation
 
-A comprehensive set of systems for vehicle ownership, customization and transportation.
-
-**Vehicle Management**
 - Vehicle dealerships
-- Vehicle management interface
+- Vehicle management panel
 - Vehicle key sharing
-- Vehicle collection point
-- Vehicle licenses
-- Garages and vehicle storage
-
-**Customization & Features**
-- Vehicle tuning
-- Color selection
-- Speedometer
-- Vehicle radio
 - Fuel stations and refueling
-
-**Additional Transportation**
-- Airport-related functionality
+- Custom speedometer
+- Vehicle tuning and color selection
+- Vehicle licenses
+- Vehicle radio
+- Garages
+- Vehicle collection point
+- Airport-related systems
 - Caravan system
-- Transportation-related gameplay systems
 
-## 🏠 Housing & Properties
-
-Property systems allow players to own, customize and interact with residential locations.
+### 🏠 Housing & Properties
 
 - House ownership and management
-- Furniture placement and customization
-- Hotel functionality
-- Garage-related systems
+- Furniture system
+- Hotels
+- Garage-related functionality
 
-## 💰 Economy & Banking
+### 💰 Economy & Banking
 
-Various financial systems support player progression, employment and economic interaction.
-
-- Player money management
-- ATMs and banking functionality
+- Player money system
+- ATMs and banking
 - Payday interface
 - Lottery system
 - Player marketplace
-- Shops and commercial businesses
+- Shops and businesses
 
-## 🏢 Businesses & Public Services
+### 🏢 Businesses & Public Services
 
-A variety of businesses, organizations and public services contribute to the roleplay environment.
-
-**Public Services & Organizations**
 - Driving school
 - Mechanics
 - Fire department
@@ -158,8 +116,6 @@ A variety of businesses, organizations and public services contribute to the rol
 - Reporters
 - Trucking services
 - Company management
-
-**Commercial & Social Activities**
 - Restaurants and supermarkets
 - Ammu-Nation
 - Bars and library
@@ -170,72 +126,60 @@ A variety of businesses, organizations and public services contribute to the rol
 - Sprunk vending machines
 - Wedding system
 
-## 🎒 Inventory, Items & Pets
-
-Item-related and companion systems provide additional gameplay possibilities.
+### 🎒 Inventory, Items & Pets
 
 - Inventory management
 - Item crafting
 - Weapon boxes
 - Pet system
-- Planting and cultivation
+- Planting system
 
-## 🔫 Weapons & Combat
-
-Combat-related systems support PvP activities, faction conflicts and weapon management.
+### 🔫 Weapons & Combat
 
 - Custom hitbox implementation
 - Weapon licensing
 - Shooting range
 - Fighting styles
 - PvP arenas
-- Gangwars
-- Factory wars
+- Gangwars and factory wars
 
-## 🌍 Additional Gameplay Systems
+### 🌍 Additional Gameplay Systems
 
-The gamemode also contains numerous supporting features that expand player interaction and world functionality.
-
-- Mobile phone system
+- Mobile phone
 - Player identification and interactions
 - Character animations
 - Mailbox system
 - Ghettoblaster
-- Parachute functionality
+- Parachute
 - Construction sites
 - Toll systems
 - Safe zones
 - Teleporters
-- Weather functionality
+- Weather system
 - Hospital and death system
-- AFK detection and management
+- AFK system
 - Easter eggs, including Alligator and Bigfoot
 
-## 🛡️ Administration & Server Management
+### 🛡️ Administration
 
-Administrative tools provide functionality for managing players, server activities and moderation.
-
-- Administrative interface
-- Admin commands
+- Administrative interface and commands
 - Player management
 - Event management
 - News management
 - Prison system
 - Superman functionality
 
-## 🖥️ User Interface
+### 🖥️ User Interface
 
-Custom interface components provide access to gameplay features and important information.
-
-- Custom player HUD
-- Vehicle speedometer
+- Custom HUD
+- Speedometer
 - Scoreboard and nametags
 - Infobox notifications
-- Breaking news interface
+- Breaking news
 - Help menu
 - Inventory interface
 - Mobile phone interface
-- Vehicle management panels
+- Vehicle management interface
 - Housing interfaces
 - Map blip legend
 - Introduction and tutorial interfaces
@@ -243,31 +187,24 @@ Custom interface components provide access to gameplay features and important in
 
 ---
 
-## ⚙️ Installation & Setup
+## ⚙️ Installation
 
 ### Requirements
 
-Before installing the gamemode, ensure that you have:
+- Multi Theft Auto: San Andreas server
+- MySQL database
+- `bone_attach` resource
+- `customblips` resource
 
-- A working **Multi Theft Auto: San Andreas server**
-- A **MySQL database**
-- The required MTA resources:
-  - `bone_attach`
-  - `customblips`
+### Setup
 
-### Installation Steps
+**1. Download the repository**
 
-**1. Download the project**
-
-Clone the repository or download its contents.
-
-```bash
-git clone <repository-url>
-```
+Clone the repository or download the source code.
 
 **2. Install the resources**
 
-Copy the following folders into your MTA server's `resources` directory:
+Place the main gamemode and its required dependencies inside your MTA server's `resources` directory.
 
 ```text
 resources/
@@ -276,27 +213,17 @@ resources/
 └── customblips/
 ```
 
-**3. Configure the database**
+**3. Import the database**
 
-Create a new MySQL database and import the included SQL file:
-
-```text
-redfieldroleplay.sql
-```
+Create a MySQL database and import the included `redfieldroleplay.sql` file.
 
 **4. Configure the database connection**
 
-Open the following file:
-
-```text
-sMain.lua
-```
-
-Update the MySQL connection settings according to your server environment.
+Open `sMain.lua` and update the MySQL connection settings to match your server environment.
 
 **5. Start the resources**
 
-Start the required dependencies before launching the main gamemode.
+Start the dependencies first, followed by the main gamemode.
 
 ```text
 start bone_attach
@@ -306,22 +233,21 @@ start RedfieldRoleplayRemastered
 
 **6. Verify the installation**
 
-Check the MTA server console for errors and verify that the database connection and required resources are working correctly.
+Check the server console for errors and ensure that the database connection and required resources are functioning correctly.
 
 ---
 
 ## 🎬 Gameplay Preview
 
-Explore Redfield Roleplay Remastered in action through the following gameplay video.
+Watch Redfield Roleplay Remastered in action:
 
-**[▶ Watch Gameplay on YouTube](https://youtu.be/PZLQRtp3rf8)**
+**[Watch Gameplay on YouTube](https://youtu.be/PZLQRtp3rf8)**
+
+---
 
 ## 📸 Screenshots
 
-The screenshots below showcase various gameplay features, interfaces and environments included in Redfield Roleplay Remastered.
-
-<details>
-<summary><b>View Screenshot Gallery (60 Images)</b></summary>
+A collection of screenshots showcasing the gamemode's interfaces, environments and gameplay features.
 
 <p align="center">
   <img src="Screenshots/Screenshot_%201.png" width="350">
@@ -330,6 +256,12 @@ The screenshots below showcase various gameplay features, interfaces and environ
   <img src="Screenshots/Screenshot_%204.png" width="350">
   <img src="Screenshots/Screenshot_%205.png" width="350">
   <img src="Screenshots/Screenshot_%206.png" width="350">
+</p>
+
+<details>
+<summary><b>View All Screenshots</b></summary>
+
+<p align="center">
   <img src="Screenshots/Screenshot_%207.png" width="350">
   <img src="Screenshots/Screenshot_%208.png" width="350">
   <img src="Screenshots/Screenshot_%209.png" width="350">
@@ -392,37 +324,12 @@ The screenshots below showcase various gameplay features, interfaces and environ
 
 ## 📊 Project Statistics
 
-An overview of the project's codebase and included files.
-
 | Metric | Count |
-|:---|---:|
+|---|---:|
 | Lua Files | 293 |
 | Additional Files | 325 |
 | Functions | 1,734 |
-| Lines of Code | 29,357 |
+| Lines | 29,357 |
 | Characters | 1,250,938 |
 | Comment Lines | 1,548 |
 | Comment Characters | 38,228 |
-
-*Statistics reflect the provided project analysis and may change as development continues.*
-
----
-
-## 🛠️ Technology Stack
-
-| Technology | Purpose |
-|---|---|
-| Lua | Gameplay scripting and server logic |
-| Multi Theft Auto: San Andreas | Multiplayer game platform |
-| MySQL | Persistent data storage |
-| MTA Resource System | Resource loading and dependency management |
-
----
-
-## 📌 About the Project
-
-Redfield Roleplay Remastered brings together a large collection of gameplay mechanics, roleplay features and custom systems within a single MTA:SA gamemode.
-
-The project serves as a comprehensive foundation for a roleplay server, combining player progression, faction gameplay, economic systems, property management, vehicle functionality and numerous additional activities.
-
-**Built for Multi Theft Auto: San Andreas.**
