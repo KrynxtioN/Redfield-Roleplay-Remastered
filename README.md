@@ -224,7 +224,7 @@ Check the server console for errors and ensure that the database connection and 
 
 ## 🎬 Media
 
-**[Watch Gameplay on YouTube](https://youtu.be/PZLQRtp3rf8)**
+- **[Watch Gameplay on YouTube](https://youtu.be/PZLQRtp3rf8)**
 
 ### Screenshots
 
